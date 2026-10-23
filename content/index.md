@@ -1,9 +1,9 @@
-   ---
-   title: History Harpy
-   ---
+---
+title: History Harpy
+---
 
-   Curating in chaos – archives and mayhem
+Curating in chaos – archives and mayhem
 
-   Start here:
-   - [[About]]
-   - [[Reading list]]
+Start here:
+- [[About]]
+- [[Reading list]]
